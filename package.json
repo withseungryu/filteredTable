@@ -1,0 +1,32 @@
+{
+  "name": "taggersP",
+  "version": "1.0.0",
+  "description": "My magnificent Nuxt.js project",
+  "author": "withseungryu",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt-ts",
+    "build": "nuxt-ts build",
+    "generate": "nuxt-ts generate",
+    "start": "nuxt-ts start"
+  },
+  "dependencies": {
+    "@nuxt/typescript-runtime": "^0.4.10",
+    "@nuxtjs/axios": "^5.11.0",
+    "nuxt": "^2.13.0",
+    "@toast-ui/vue-chart": "^1.1.2",
+    "axios": "^0.19.2",
+    "jquery": "^3.5.1",
+    "nuxt-property-decorator": "^2.7.2",
+    "popper.js": "^1.16.1",
+    "tui-chart": "^3.11.2",
+    "vue": "^2.6.11",
+    "vue-content-loading": "^1.6.0",
+    "vue-property-decorator": "^8.4.2"
+  },
+  "devDependencies": {
+    "@nuxt/typescript-build": "^1.0.3",
+    "bootstrap": "^4.5.0",
+    "vuex-module-decorators": "^0.17.0"
+  }
+}
