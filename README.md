@@ -38,3 +38,6 @@ QUERY 설명
 
 `npm run dev` 혹은 
 `npm run build` and `npm run start` 로 실행 할 수 있습니다.
+
+### 자세한 내용은 아래 블로그에서...
+[블로그](https://withseungryu.tistory.com/41)
