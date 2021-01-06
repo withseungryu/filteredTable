@@ -15,7 +15,7 @@
     "@nuxtjs/axios": "^5.11.0",
     "nuxt": "^2.13.0",
     "@toast-ui/vue-chart": "^1.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "jquery": "^3.5.1",
     "nuxt-property-decorator": "^2.7.2",
     "popper.js": "^1.16.1",
